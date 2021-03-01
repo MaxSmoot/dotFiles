@@ -1,2 +1,2 @@
-ln -s ~/.dotfiles/.bashrc ~/.bashrc
-ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
+ln -s ~/.dotfiles/.bashrc ~/.bashrc -f
+ln -s ~/.dotfiles/.gitconfig ~/.gitconfig -f
